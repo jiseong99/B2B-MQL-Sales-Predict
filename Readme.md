@@ -16,13 +16,14 @@
 + 온라인 해커톤에서 교육생들의 문제 해결 능력을 검증하여 오프라인 해커톤에 진출할 약 100명을 선별하기 위한 과정입니다.
 
 #### [주최 / 주관]
-+ 주최 : 미래와 소프트웨어
-+ 주관 : ET Edu(이티에듀)
-+ 링크 : https://edu.ggumeasy.com/?pn=product.view&pcode=H7843-R5115-J7144
++ 주최 : LG AI Research
++ 주관 : 엘리스그룹
++ 링크 : 한경닷컴
 
-#### [배경 및 필요성]
-![image](https://github.com/jiseong99/B2B-MQL-Sales-Predict/assets/137580822/39c03492-e207-41e1-a7ce-7929d571a83a)
-
+#### [리더보드]
++ 평가 산식 : F1 score
++ Public score : 전체 테스트 데이터 샘플 중 사전 샘플링된 50%로 계산
++ Private score : Public score 계산에 포함되지 않은 나머지 50%의 테스트 데이터로 계산
   
 ## 2. EDA
 ### 전체 데이터 확인
