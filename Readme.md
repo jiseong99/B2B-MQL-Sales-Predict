@@ -1,7 +1,7 @@
 # LG Aimers phase2
 
 ### MQL 데이터를 활용하여 영업 기회 전환 고객을 선별하기 위한 AI 모델 개발
-팀원 : [송준호](https://github.com/Junoflows), [한지성](https://github.com/jisung99), [황성주](https://github.com/svng-zu)
+팀원 : [송준호](https://github.com/Junoflows), [한지성](https://github.com/jiseong99), [황성주](https://github.com/svng-zu)
 
 ### 최종 결과
 + Public Score : 0.75611
